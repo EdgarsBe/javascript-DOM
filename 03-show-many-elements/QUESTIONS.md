@@ -6,4 +6,4 @@
 
 > How did you go about hiding elements initially?
 
-Your reply here...
+To hide the elements initially I changed the style block to none in the html code so when the page loads some of the texts aren't visible.

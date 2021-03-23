@@ -6,4 +6,4 @@
 
 > What are some refactoring techniques you might apply to the provided solution?
 
-Your reply here...
+None because I don't know how to improve this code.
